@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega128</DEVICE>
+ <WORKING_DIR>C:\Users\didin\Documents\Kuliah\INSTRUMENTATION\Sistem Tertanam\ATM128_ExtINT_7segment</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\didin\Documents\Kuliah\INSTRUMENTATION\Sistem Tertanam\ATM128_ExtINT_7segment\ATM128_ExtINT_7segment.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\didin\Documents\Kuliah\INSTRUMENTATION\Sistem Tertanam\ATM128_ExtINT_7segment\ATM128_ExtINT_7segment.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\didin\Documents\Kuliah\INSTRUMENTATION\Sistem Tertanam\ATM128_ExtINT_7segment\ATM128_ExtINT_7segment.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\didin\Documents\Kuliah\INSTRUMENTATION\Sistem Tertanam\ATM128_ExtINT_7segment\ATM128_ExtINT_7segment.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\didin\Documents\Kuliah\INSTRUMENTATION\Sistem Tertanam\ATM128_ExtINT_7segment\ATM128_ExtINT_7segment.asm</FILE><LINE>16</LINE></main>
+  <tambah><FILE>C:\Users\didin\Documents\Kuliah\INSTRUMENTATION\Sistem Tertanam\ATM128_ExtINT_7segment\ATM128_ExtINT_7segment.asm</FILE><LINE>40</LINE></tambah>
+  <kurang><FILE>C:\Users\didin\Documents\Kuliah\INSTRUMENTATION\Sistem Tertanam\ATM128_ExtINT_7segment\ATM128_ExtINT_7segment.asm</FILE><LINE>46</LINE></kurang>
+  <bin2bcd><FILE>C:\Users\didin\Documents\Kuliah\INSTRUMENTATION\Sistem Tertanam\ATM128_ExtINT_7segment\ATM128_ExtINT_7segment.asm</FILE><LINE>51</LINE></bin2bcd>
+  <display><FILE>C:\Users\didin\Documents\Kuliah\INSTRUMENTATION\Sistem Tertanam\ATM128_ExtINT_7segment\ATM128_ExtINT_7segment.asm</FILE><LINE>62</LINE></display>
+  <loop><FILE>C:\Users\didin\Documents\Kuliah\INSTRUMENTATION\Sistem Tertanam\ATM128_ExtINT_7segment\ATM128_ExtINT_7segment.asm</FILE><LINE>38</LINE></loop>
+  <ulang><FILE>C:\Users\didin\Documents\Kuliah\INSTRUMENTATION\Sistem Tertanam\ATM128_ExtINT_7segment\ATM128_ExtINT_7segment.asm</FILE><LINE>53</LINE></ulang>
+  <selesai><FILE>C:\Users\didin\Documents\Kuliah\INSTRUMENTATION\Sistem Tertanam\ATM128_ExtINT_7segment\ATM128_ExtINT_7segment.asm</FILE><LINE>58</LINE></selesai>
+  <bcd27segment><FILE>C:\Users\didin\Documents\Kuliah\INSTRUMENTATION\Sistem Tertanam\ATM128_ExtINT_7segment\ATM128_ExtINT_7segment.asm</FILE><LINE>71</LINE></bcd27segment>
+  <Tabel><FILE>C:\Users\didin\Documents\Kuliah\INSTRUMENTATION\Sistem Tertanam\ATM128_ExtINT_7segment\ATM128_ExtINT_7segment.asm</FILE><LINE>76</LINE></Tabel>
+ </LABELS>
+</ASSEMBLER_INFO>
